@@ -1,2 +1,1 @@
-# WEB DEV
- Basic web development tutorial
+# HTML and CSS tutorial practice files based on Internetingishard.com
