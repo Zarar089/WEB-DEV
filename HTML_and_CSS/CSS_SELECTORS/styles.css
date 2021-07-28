@@ -1,0 +1,78 @@
+
+.synopsis{
+    color: #7e8184;
+    font-style: italic;
+}
+
+
+.button:link,.button:visited{
+    display: block;
+    text-decoration: none;
+
+    color: #FFF;
+    background-color: #5995DA;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 10px;
+
+    width: 200px;
+    margin: 20px auto;
+}
+
+.button:hover{
+    color: #FFF;
+    background-color: #76aeed;
+}
+.button:visited:hover{
+    color: #FFF;
+    background-color: #064894;
+}
+.button:active{
+    color: #FFF;
+    background-color: #065e69;
+}
+.button:visited:active{
+    color: #FFF;
+    background-color: #476383;
+}
+.page{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.call-to-action{
+    font-style:  italic;
+    background-color: #EEb75A;
+}
+
+.synopsis em{
+    font-style: normal;
+}
+
+
+
+.call-to-action:link,
+.call-to-action:visited {
+  font-style: italic;
+  background-color: #EEB75A;     /* Yellow */
+}
+
+.call-to-action:hover,
+.call-to-action:visited:hover {
+  background-color: #F5CF8E;     /* Light yellow */
+}
+
+
+.call-to-action:active,
+.call-to-action:visited:active {
+  background-color: #EEB75A;     /* Yellow */
+}
+
+
+
+
+
+
+
